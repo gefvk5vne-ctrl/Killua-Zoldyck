@@ -2,7 +2,7 @@
 <img src="https://api.zahwazein.xyz/upload/icon.png" alt="nz" width="350"/>
 </p>
 
-## Killua-Zoldyck
+## ،ツ𖤍ْ ᴝȷᓄ᎗ɹ̈ᓄ⅃Ȋ බᴝȊ᎗ɹ̤ᓆ⅃Ȋ メ̷ِ۪⁦👑⃕ 
 
 > Example case from Zenz Rest APIs for WhatsApp Bot
 
@@ -107,7 +107,7 @@ SCAN THE QR USING YOUR WHATSAPP!
 |   Random Image     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/randomimage)      |
 |   Random Text     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/randomtext)      |
 |   Search     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/search)      |
-|   Stalker     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/stalker)      |
+|   Stalker     |       ✅[here](https://github.com/zhwzeinKillua-Zoldyck//tree/main/commands/stalker)      |
 |   Textmaker     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/textmaker)      |
 |   Togel     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/togel)      |
 |   Users     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/users)      |
